@@ -98,7 +98,7 @@
    
     .links {
         position: absolute;
-        top: 30%;
+        top: 36%;
         left: 50%;
         transform: translate(-50%, -50%);
         display: flex;
